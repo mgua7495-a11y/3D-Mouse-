@@ -3,6 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)
 ![Android: 8.0+](https://img.shields.io/badge/Android-8.0%2B-brightgreen.svg)
 ![Blender | Fusion 360 | SolidWorks](https://img.shields.io/badge/CAD-Blender%20%7C%20Fusion%20360%20%7C%20SolidWorks-blue.svg)
+[![Patreon](https://img.shields.io/badge/Patreon-Donate-orange.svg?logo=patreon)](https://www.patreon.com/m4ximys)
 
 > **3D Mouse** turns your Android smartphone into a high-precision, low-latency 3D viewport navigation controller for **Blender**, **Autodesk Fusion 360**, **SolidWorks**, and **FreeCAD**.
 > 
@@ -53,8 +54,16 @@
 
 ---
 
+## 💖 Support & Donations
+
+If you find **3D Mouse** useful for your 3D modeling workflow and would like to support the project development, consider buying me a coffee or donating via Patreon:
+
+👉 **[Support m4ximys on Patreon](https://www.patreon.com/m4ximys)**
+
+---
+
 ## 📜 License & Credits
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
-Created by **instagram m4ximys**
+Created with ❤️ by **[instagram @m4ximys](https://www.instagram.com/m4ximys)**

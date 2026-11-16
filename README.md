@@ -33,9 +33,9 @@
 ## 🛠️ Quick Setup Guide
 
 ### 1. PC Receiver Setup (Windows)
-1. Download `start_pc_receiver.bat` and `space_mouse_receiver.py` from the [Releases](../../releases) section or directly from the app.
-2. Double-click `start_pc_receiver.bat` on your PC.
-3. The script automatically configures Windows Firewall and launches the Python receiver server with a Cyberpunk Matrix animation.
+1. **Install Python**: Download and install Python from the official website [python.org](https://www.python.org). **IMPORTANT**: Check the box **"Add Python to PATH"** during installation.
+2. **Download Receiver Files**: Download `start_pc_receiver.bat` and `space_mouse_receiver.py` from the [Releases](../../releases) section or directly from the app.
+3. **Launch Receiver**: Double-click `start_pc_receiver.bat` on your PC. The script configures Windows Firewall and launches the receiver server with a Cyberpunk Matrix animation.
 
 ### 2. Android App Connection
 1. Install `3D_Mouse.apk` on your phone.
